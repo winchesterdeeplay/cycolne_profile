@@ -1,0 +1,58 @@
+# CURRENT TC
+TC_NAME: BOLAVEN
+INDEX: 2
+
+
+# BOLAVEN
+BOLAVEN_F: [
+    '2012-08-27_0208_NOAA18.joined_satellite_data.profiles',
+    '2012-08-27_0250_NOAA19.joined_satellite_data.profiles',
+    '2012-08-27_0357_NOAA18.joined_satellite_data.profiles',
+]
+BOLAVEN_EYE: [[28.6, 126.7], [29.1, 126.3], [29.5, 126.1]]
+BOLAVEN_Pinf: ['1008', '1008', '1008']
+
+# MEARI
+MEARI_F: [
+    '2011-06-24_0911_NOAA16.joined_satellite_data.profiles',
+    '2011-06-24_1625_NOAA19.joined_satellite_data.profiles',
+]
+MEARI_EYE: [[23.6, 125.0], [24.9, 124.1]]
+MEARI_Pinf: ['1008.8', '1010']
+
+# MA_ON
+MA_ON_F: [
+  '2011-07-19_0336_NOAA18.joined_satellite_data.profiles',
+  '2011-07-19_0914_NOAA16.joined_satellite_data.profiles',
+  '2011-07-19_2300_NOAA16.joined_satellite_data.profiles',
+  '2011-07-20_0325_NOAA18.joined_satellite_data.profiles',
+  '2011-07-20_0559_NOAA15.joined_satellite_data.profiles',
+]
+MA_ON_EYE: [[32.2, 132.9], [32.9, 133.6], [33.5, 135.6], [33.5, 136.2], [33.4, 136.8]]
+MA_ON_Pinf: ['1008', '1008', '1007', '1007', '1006']
+
+# NANMADOL
+NANMADOL_F: [
+  '2011-08-27_1712_NOAA19.joined_satellite_data.profiles',
+  '2011-08-28_0326_NOAA19.joined_satellite_data.profiles',
+  '2011-08-28_0455_NOAA18.joined_satellite_data.profiles'
+]
+NANMADOL_EYE: [[19.7, 121.3], [20.9, 121.1], [20.9, 121.1]]
+NANMADOL_Pinf: ['1003.9', '1007.9', '1007.4']
+
+# ROKE
+ROKE_F: [
+    '2011-09-19_0837_NOAA16.joined_satellite_data.profiles'
+]
+ROKE_EYE: [[28.05, 130.35]]
+ROKE_Pinf: ['1000']
+
+# JELAWAT
+JELAWAT_F: [
+  '2012-09-28_1050_NOAA16.joined_satellite_data.profiles',
+  '2012-09-28_1712_NOAA19.joined_satellite_data.profiles',
+  '2012-09-29_0029_NOAA16.joined_satellite_data.profiles',
+  '2012-09-29_0341_NOAA19.joined_satellite_data.profiles',
+]
+JELAWAT_EYE: [[24.0, 124.9], [24.9, 124.9], [26.0, 127.2], [26.7, 127.9]]
+JELAWAT_Pinf: ['998', '996', '1004.5', '1004.5']
